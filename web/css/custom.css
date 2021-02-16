@@ -1,0 +1,9 @@
+#owl-demo .item{
+  margin: 3px;
+  padding-left: 80px;
+}
+#owl-demo .item img{
+  display: block;
+  width: 100px;
+  height: 100px;
+}
